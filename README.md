@@ -6,7 +6,7 @@ They are fun, simple, and silly. Enjoy lovely <3
 
 
 
-<!-- Google tag (gtag.js) -->
+<!-- Google tag (gtag.js) 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8X4N8MRVX7"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,3 +15,5 @@ They are fun, simple, and silly. Enjoy lovely <3
 
   gtag('config', 'G-8X4N8MRVX7');
 </script>
+
+--->
